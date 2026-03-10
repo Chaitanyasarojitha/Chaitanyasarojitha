@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently learning python full stack
+👋 Hi, I'm Chaitanya
+💻 Fresher in Software Development
+🌱 Learning: HTML | CSS | Python | SQL | Git
+📚 Love to learn new technologies
+🚀 Working on my skills every day
+
 
 
 ## 🌐 Socials:
